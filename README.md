@@ -8,7 +8,7 @@ This repository contains a set of web pages designed for user authentication, in
 
 ## Live Demo
 
-* You can check out the live demo of the project [here]()
+* You can check out the live demo of the project [here](https://premkrrajbhar.github.io/login-registration-and-forgot-password-Pages/)
 
 ## Table of Contents
 
